@@ -18,7 +18,7 @@
   <string name="app_name">دابه‌زێنه‌ری به‌رنامه‌</string>
   <string name="next">دواتر</string>
   <string name="install">دامەزراندن</string>
-  <string name="done">ئه‌نجامدرا</string>
+  <string name="done">ئه‌نجام درا</string>
   <string name="security_settings_desc">ڕێگه‌دان به‌ به‌رنامه‌ بۆ:</string>
   <string name="cancel">هەڵوەشاندنەوە</string>
   <string name="unknown">نەناسراو</string>
@@ -92,7 +92,7 @@
   <string name="Parse_error_dlg_title">هەڵەی شی کردنەوە</string>
   <string name="Parse_error_dlg_text">هەڵەیەک هەبوو لا کاتی شی کردنەوەی ئەم پاکێجە.</string>
   <string name="newPerms">نوێ</string>
-  <string name="allPerms">هەموو</string>
+  <string name="allPerms">گشت</string>
   <string name="privacyPerms">تایبەتی</string>
   <string name="devicePerms">چوونەناو ئامێر</string>
   <string name="no_new_perms">ئەم نوێکارییە پێویستی بە هیچ ڕێگەپێدانێکی نوێ نییە.</string>
